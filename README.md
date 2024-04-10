@@ -29,8 +29,8 @@ To run this project locally or contribute to its development, follow these steps
 
 Here are some screenshots of the project:
 
-- ![Screenshot 1](screenshots/cal1.png)
-- ![Screenshot 2](cal2.png)
+- ![Screenshot 1](screenshots/cal1.PNG)
+- ![Screenshot 2](screenshots/cal2.PNG)
 
 ## Live
 Visit the live Tax Calculator at https://tax-calculator-beta-two.vercel.app/ to start calculating your tax liability.
