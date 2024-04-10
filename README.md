@@ -25,21 +25,6 @@ To run this project locally or contribute to its development, follow these steps
    cd tax-calculator
 3. Open on live server
 
-Usage
-Enter Income Details:
 
-Input your gross annual income, extra income (if applicable), and deductions (if applicable) into the respective fields.
-Select Age Range:
-
-Choose your age range from the dropdown menu (<40, ≥40 & <60, or ≥60) to apply the appropriate tax rate.
-Calculate Tax:
-
-Click the "Calculate Tax" button to instantly compute the tax payable based on the provided inputs.
-View Result:
-
-The calculated tax amount will be displayed in Indian Rupees (₹) within a modal window.
-Contributing
-Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request or open an issue on GitHub.
-
-Live Demo
+## Live
 Visit the live Tax Calculator at https://tax-calculator-beta-two.vercel.app/ to start calculating your tax liability.
