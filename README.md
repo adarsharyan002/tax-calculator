@@ -25,6 +25,12 @@ To run this project locally or contribute to its development, follow these steps
    cd tax-calculator
 3. Open on live server
 
+## Screenshots
+
+Here are some screenshots of the project:
+
+- ![Screenshot 1](screenshots/cal1.png)
+- ![Screenshot 2](cal2.png)
 
 ## Live
 Visit the live Tax Calculator at https://tax-calculator-beta-two.vercel.app/ to start calculating your tax liability.
