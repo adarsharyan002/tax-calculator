@@ -31,6 +31,11 @@ Here are some screenshots of the project:
 
 - ![Screenshot 1](screenshots/cal1.PNG)
 - ![Screenshot 2](screenshots/cal2.PNG)
+- ![Screenshot 3](screenshots/cal3.PNG)
+- ![Screenshot 4](screenshots/cal4.PNG)
+- ![Screenshot 5](screenshots/cal5.PNG)
+- ![Screenshot 6](screenshots/cal6.png)
+- ![Screenshot 7](screenshots/cal7.png)
 
 ## Live
 Visit the live Tax Calculator at https://tax-calculator-beta-two.vercel.app/ to start calculating your tax liability.
